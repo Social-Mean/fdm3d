@@ -1,0 +1,1 @@
+add_library(fdm3dsolverlib fdm3dsolver.cpp)
